@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "586784731330",
+    "firebase_url": "https://bcad2025-stefan-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bcad2025-stefan",
+    "storage_bucket": "bcad2025-stefan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586784731330:android:909c1d5f76c1a7a47dcb5b",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.firebasebasics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wRu5llkCqPf2gho3qEenFoVAJVm4Ug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586784731330:android:d83ec0dd2b3a5ccf7dcb5b",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.firebaseobject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wRu5llkCqPf2gho3qEenFoVAJVm4Ug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586784731330:android:7cd9a40d305ee0747dcb5b",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.mystickerbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wRu5llkCqPf2gho3qEenFoVAJVm4Ug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
